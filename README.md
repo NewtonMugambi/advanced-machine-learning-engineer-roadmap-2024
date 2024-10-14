@@ -4,7 +4,7 @@ A Full Stack ML (Machine Learning) Roadmap involves learning the necessary skill
 ![christina-wocintechchat-com-SqmaKDvcIso-unsplash](https://github.com/farukalampro/advanced-machine-learning-engineer-roadmap-2023/assets/92469073/53814cd5-a085-4615-93b6-175876e914d5)
 
 Below is a comprehensive roadmap that outlines the key steps and topics you should cover on your journey to becoming a Full Stack ML engineer. Keep in mind that this is a high-level roadmap, and you can customize it based on your interests and goals.
-
+ 
 
 # 1. Python Programming
 Python is widely considered the best programming language for machine learning. It has gained immense popularity in the field of data science and machine learning.
